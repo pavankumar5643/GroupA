@@ -18,5 +18,4 @@ public class VariableDemo2
 		System.out.println(i);
 
 	}
-
-}
+hi team this gani
