@@ -11,7 +11,7 @@ public class VariableDemo2
 		j=30;
 		System.out.println(j);
 		int j = 40;
-		System.out.println(j);
+		System.out.println(j);  //printing the local variable
 		
 		//System.out.println(k);	
 		VariableDemo2 i = new VariableDemo2();	//datatype variable = object
