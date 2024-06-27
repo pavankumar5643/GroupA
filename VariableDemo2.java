@@ -9,7 +9,7 @@ public class VariableDemo2
 	{
 		System.out.println(j);
 		j=30;
-		System.out.println(j);
+		System.out.println(j);  //printing Global Variable
 		int j = 40;
 		System.out.println(j);
 		
