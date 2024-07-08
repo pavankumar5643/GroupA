@@ -7,7 +7,7 @@ public class variableDemo1
 	
 		public static void main(String[] args)
 	/*{
-DEMO
+
 		System.out.println(5);	//5
 		System.out.println("5");	//5
 		System.out.println("5+5");	//5+5
@@ -28,6 +28,4 @@ DEMO
 		}
 
 }
-This is edited By PavanKumar, Below 2 lines.
-Hi team,
-RBG Technologies.
+
